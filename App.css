@@ -1,0 +1,15 @@
+body{
+  height: 100vh;
+  background-color: rgb(243, 194, 194);
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  }
+
+  .input-error{
+border: 2px solid red;
+
+  }
+  .error-msg{
+    color:brown
+  }
